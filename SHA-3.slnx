@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SHA-3/SHA-3.vcxproj" />
+  <Project Path="SHA-3/SHA-3.vcxproj" Id="0b662830-c8f6-4ded-8888-6a5ebdf7c7e6" />
 </Solution>
