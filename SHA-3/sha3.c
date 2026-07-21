@@ -185,14 +185,14 @@ static void squeeze(
  * Define Functions
  *************************************************************************************************/
 
- /*************************************************************************************************
-  * Function Name : rotate_left()
-  * Parameters    : uint64_t value,
-  *                 unsigned int shift
-  * Return Value  : Rotated 64-bit value
-  * Operation     : Performs a circular left rotation.
-  * Description   : Used by the Rho step to rotate a lane.
-  *************************************************************************************************/
+/*************************************************************************************************
+ * Function Name : rotate_left()
+ * Parameters    : uint64_t value,
+ *                 unsigned int shift
+ * Return Value  : Rotated 64-bit value
+ * Operation     : Performs a circular left rotation.
+ * Description   : Used by the Rho step to rotate a lane.
+ *************************************************************************************************/
 
 static uint64_t rotate_left(
     uint64_t value,
