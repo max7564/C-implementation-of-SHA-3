@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dbd-tracker-dev",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set PATH=C:\\Program Files\\nodejs;%PATH% && npm run dev --prefix C:\\Users\\김동현\\source\\repos\\dbd-tracker"
+      ],
+      "port": 3000
+    }
+  ]
+}
